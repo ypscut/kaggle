@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data_science/.idea/data_science.iml" filepath="$PROJECT_DIR$/../data_science/.idea/data_science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kaggle.iml" filepath="$PROJECT_DIR$/.idea/kaggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python练习/.idea/python练习.iml" filepath="$PROJECT_DIR$/../python练习/.idea/python练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../集体智慧编程/.idea/集体智慧编程.iml" filepath="$PROJECT_DIR$/../集体智慧编程/.idea/集体智慧编程.iml" />
+    </modules>
+  </component>
+</project>
+
